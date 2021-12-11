@@ -1,0 +1,3 @@
+ID        |STUDENT_ID|1ST_PLACE      |1ST_DATE  |2ND_PLACE      |2ND_DATE  |VACCINE_ID|
+14        |SE140002  |BEN TRE        |12/8/2021 |null           |null      |2         |
+15        |SE160005  |HA NOI         |30/8/2021 |null           |null      |2         |

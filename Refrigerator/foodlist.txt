@@ -1,0 +1,8 @@
+===========================================================================================
+|ID   |Name                |Weight|Type      |Place                         |Expired Date |
+|3    |4                   |7.0   |2         |Cool refrigerator compartment |4/11/2021    |
+|456  |Thit ga             |2.5   |Thit      |Cool refrigerator compartment |1/11/2021    |
+|123  |Ca rot              |1.0   |Cu        |Cool refrigerator compartment |1/10/2021    |
+|234  |Ot                  |0.5   |Trai      |Cool refrigerator compartment |20/9/2021    |
+|2    |thit                |6.0   |thit nam  |Refrigerator freezer          |10/2/2021    |
+===========================================================================================

@@ -1,0 +1,4 @@
+|ID   |Name                |Weight|Type      |Place                         |Expired Date |
+|F123 |Ca rot              |1.0   |Cu        |Cool refrigerator compartment |1/10/2021    |
+|F456 |Thit ga             |2.5   |Thit      |Cool refrigerator compartment |1/11/2021    |
+|F234 |Ot                  |0.5   |Trai      |Cool refrigerator compartment |20/9/2021    |
